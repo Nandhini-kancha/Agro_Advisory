@@ -1,0 +1,21 @@
+# Environment Variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+backend/venv/
+
+# Node (already in frontend/.gitignore, but good to have here just in case)
+node_modules/
+
+# Generated Files
+Fertilizer_Advisory_Interview_Prep.pdf
+generate_pdf.py
+
+# Editor files
+.vscode/
+.idea/
+.DS_Store
